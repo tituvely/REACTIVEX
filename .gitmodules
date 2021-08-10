@@ -1,0 +1,3 @@
+[submodule "yalco-rxjs-practice-server"]
+    path = yalco-rxjs-practice-server
+    url = https://gitlab.com/yalco/yalco-rxjs-practice-server
